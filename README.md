@@ -1,0 +1,2 @@
+- I’m currently learning Python & Javascript
+- I am only recently learning to code and as such I am not very good
